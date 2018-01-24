@@ -8,3 +8,5 @@ En este taller deberá consignar los pasoos para:
 * Instalación y configuración de CentOS7
 
 ## Pasos
+1. Descargar ISO de CentOS7 versión 1.08 de la página oficial  
+2. Validar el checksum del archivo ISO
